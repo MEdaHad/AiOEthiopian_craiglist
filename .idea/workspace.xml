@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e3ca9c-e392-467d-a262-31438f7b47e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VG7Hvb78vzzB19wpe7fObY8DyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e3ca9c-e392-467d-a262-31438f7b47e3" name="Default Changelist" comment="" />
+      <created>1576867494245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576867494245</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="679" key="#Notifications" timestamp="1576868051460">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="278" y="58" width="800" height="679" key="#Notifications/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1576868051460" />
+    <state x="466" y="154" width="424" height="486" key="FileChooserDialogImpl" timestamp="1577026960269">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="466" y="154" width="424" height="486" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1577026960269" />
+    <state x="172" y="31" width="1022" height="732" key="SettingsEditor" timestamp="1577092788709">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="172" y="31" width="1022" height="732" key="SettingsEditor/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1577092788709" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576867584573">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1576867584573" />
+    <state x="332" y="91" width="691" height="614" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1576867883414">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="332" y="91" width="691" height="614" key="com.intellij.javaee.MapExternalResourceDialog/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1576867883414" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577114232987">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1577114232987" />
+  </component>
+</project>
